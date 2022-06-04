@@ -1,0 +1,13 @@
+package com.namedparameterjdbctemplate;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NamedparameterjdbctemplateApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
