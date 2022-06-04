@@ -39,9 +39,9 @@ public String delete(@RequestBody Registration reg) {
 regserv.delete(reg);
 return "deleted";
 }
-@GetMapping("/getting")
-public List get() {
-	
-	return regserv.get();
-}
+//@GetMapping("/getting")
+//public List get() {
+//	
+//	return regserv.get();
+//}
 }
